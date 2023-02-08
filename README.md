@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @baigwajida
-- 👀 I’m interested in entry-level jobs as Software Engineer in Python, Java, or DevOps, Cloud(AWS) 
+- 👀 I’m interested in learning more about DevOps, Cloud(AWS) and Cloud Native technologies 
 - 🌱 I’m currently learning Terraform and Rancher
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - on my email ie baigwajida@gmail.com or call me at +91-8127088908
