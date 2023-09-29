@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @baigwajida
-- ✨ I'm an AWS Certified Solutions Architect - Associate and working as a DevOps Engineer - I @ initializ Labs, India.
-- 👀 I’m interested in learning more about DevOps, Cloud(AWS) and Cloud Native technologies 
+- ✨ I'm working as an AWS Cloud/DevOps Engineer @ Klaus IT Solution Pvt Ltd, Bengaluru, India.
+- 🥇 I'm certified in AWS Certified Solutions Architect - Associate.
+- 👀 I’m interested in learning more about DevOps, AWS Cloud, and Cloud Native technologies 
 - 🌱 I’m currently learning Terraform and Kubernetes
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me - on my email i.e. baigwajida@gmail.com
